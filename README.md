@@ -25,6 +25,11 @@ This dashboard was developed with Kubernetes logging in mind.
 - Buffer size
 - Buffer trends
 
+## Import dashboard to Grafana
+
+1. Download the dashboard from `dashboards/k8s-vector-grafana-dashboard.json` or [Grafana Dashboard Page](https://grafana.com/grafana/dashboards/19514-kubernetes-logging-vector/)
+2. Follow the instructions from the official [Grafana's manual](https://grafana.com/docs/grafana/latest/dashboards/manage-dashboards/#import-a-dashboard)
+
 ## Contribution
 
 Feel free to ask for help or contribute.
